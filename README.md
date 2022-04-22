@@ -6,7 +6,7 @@ I wrote this because maybe this book is useful for many people, especially those
 
 ## How To Use 📖
 
-There are 3 versions of this guide, all content is same, the difference is only in the way they are read, namely in the form of websites, pdf books, and also on github <br>
+There are 3 versions of this guide, all content is same, the difference is only in the way to read : Websites, PDF books, and also on Github <br>
 
 ### Markdown Github Version
 Read through GitHub intermediary on individual markdown files <br>
