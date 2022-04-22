@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![](rockylinux.png)
 
 ## Preamble
